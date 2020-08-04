@@ -1,0 +1,32 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-transform: capitalize;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+div {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid rgb(255, 255, 255);
+  background: rgb(29, 29, 29);
+}
+div h1 {
+  font-size: 50px;
+  color: rgb(255, 217, 0);
+}
+div h2 {
+  margin-left: 20px;
+  color: rgb(0, 255, 0);
+}
+div h3 {
+  margin-left: 40px;
+  color: rgb(255, 0, 212);
+}
+div p {
+  margin-left: 80px;
+  color: rgb(0, 236, 253);
+}
